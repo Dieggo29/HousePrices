@@ -141,7 +141,7 @@ Os gráficos de dispersão para cada modelo mostram o quão bem as previsões se
 - **Transformação Logarítmica**: Aplicar uma transformação logarítmica em `SalePrice` para lidar com sua assimetria e potencialmente melhorar o desempenho do modelo.
 
 ## Como Executar o Notebook
-1. Clone este repositório: `git clone <url-do-repositório>`
+1. Clone este repositório: `git clone (https://github.com/Dieggo29/HousePrices)`
 2. Instale as dependências: `pip install pandas numpy matplotlib seaborn scikit-learn xgboost`
 3. Baixe o conjunto de dados (`train.csv`) da competição [Kaggle House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) e coloque-o na pasta do repositório.
 4. Execute o notebook usando o Jupyter: `jupyter notebook HousePricesX.ipynb`
